@@ -16,7 +16,7 @@ instance.interceptors.request.use(
     // TODO 2. 携带token
     const useStore = useUserStore()
     if (useStore.token) {
-      config.headers.Authorization = useStore.token()
+      config.headers.Authorization = useStore.token
     }
     return config
   },
@@ -42,7 +42,7 @@ instance.interceptors.response.use(
       router.push('/login')
     }
     //错误的默认情况 =》直接给提示
-    ElMessage.error(err.response.data.message || '服务异常')
+    ElMessage.error(err.response.dat.message || '服务异常')
     return Promise.reject(err)
   }
 )

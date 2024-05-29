@@ -1,44 +1,13 @@
 <script setup>
-import { useRoute, useRouter } from 'vue-router'
-import { useUserStore, useCountStore } from './stores'
-// 在vue3 compositionapi中
-// 1.获取路由对象 router useRouter
-// const router = useRouter()
-// 2.获取路由参数 route useRoute
-// const route = useRoute()
-const router = useRouter()
-const route = useRoute()
-const goList = () => {
-  router.push('/list')
-  console.log(router, route)
-}
-const userStore = useUserStore()
-const countStore = useCountStore()
+import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 </script>
 
 <template>
   <div>
-    <hr />
-    <hr />
-    <router-view></router-view>
-    <hr />
-    <hr />
-    <hr />
-
-    我是APP
-    <test-demo></test-demo>
-    <el-button @click="$router.push('/home')">跳首页</el-button>
-    <el-button @click="goList">跳列表页</el-button>
-
-    <el-button type="primary">Primary</el-button>
-    <el-button type="success">Success</el-button>
-
-    <p>{{ userStore.token }}</p>
-    <el-button @click="userStore.setToken('2E3R34R4334')">登录</el-button>
-    <el-button @click="userStore.removeToken('')">退出</el-button>
-    <hr />
-    <p>{{ countStore.count }}</p>
-    <el-button @click="countStore.add(10)">加法</el-button>
+    <!-- app.vue只需要留一个路由出口 -->
+    <el-config-provider :locale="zhCn">
+      <router-view></router-view>
+    </el-config-provider>
   </div>
 </template>
 
