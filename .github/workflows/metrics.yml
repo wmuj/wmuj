@@ -22,33 +22,20 @@ jobs:
 
           # 日历热力图
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
           # 编程语言统计
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+          plugin_languages_limit: 5
 
           # 代码行数统计
           plugin_lines: yes
 
-          # Star 趋势图
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-
-          # 编码习惯
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 100
-          plugin_habits_languages_limit: 4
-          plugin_habits_languages_threshold: 5%
-
-          # WakaTime 编码时间统计
+          # WakaTime（精简版）
           plugin_wakatime: yes
           plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_limit: 4
+          plugin_wakatime_sections: time, languages
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: wmuj
