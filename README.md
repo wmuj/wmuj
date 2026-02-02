@@ -26,10 +26,6 @@
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmuj&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
-<!-- GitHub Stats + Streak 并排 -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wmuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
-<img height="160" src="https://streak-stats.demolab.com/?user=wmuj&theme=tokyonight&hide_border=true&background=0D1117" />
-
 </div>
 
 ---
