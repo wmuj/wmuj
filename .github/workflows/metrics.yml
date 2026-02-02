@@ -18,6 +18,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          config_padding: 6%
           optimize: svg
           experimental_features: --optimize-svg
 
@@ -25,29 +26,22 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 语言详细分析
+          # 语言分析
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
 
           # 代码行数
           plugin_lines: yes
-
-          # 编码习惯
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
 
           # Star 趋势
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
 
-          # WakaTime
+          # WakaTime（精简）
           plugin_wakatime: yes
           plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_limit: 4
+          plugin_wakatime_sections: time, languages
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: wmuj
