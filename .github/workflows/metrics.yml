@@ -26,7 +26,6 @@ jobs:
           
           # === 也可以加一些额外的参数让它更像黑客终端 ===
           plugin_lines: yes
-          plugin_intro: yes
           plugin_traffic: yes
 
           # WakaTime 编码时间统计
