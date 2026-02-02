@@ -14,7 +14,7 @@
 ```
 
 <!-- 终端打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=%24+whoami;wmuj+%7C+Full+Stack+Developer;%24+cat+skills.txt;Flutter+%7C+Dart+%7C+Vue3+%7C+Java;%24+echo+%22Always+learning...%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=%24+whoami;wmuj+%7C+Full+Stack+Developer;%24+cat+skills.txt;Flutter+%7C+Dart+%7C+Vue3+%7C+Java;React+%7C+UniApp+%7C+%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F;%24+echo+%22Always+learning...%22)](https://git.io/typing-svg)
 
 <!-- GitHub 贡献贪吃蛇 -->
 <picture>
