@@ -1,0 +1,39 @@
+name: Terminal Profile
+on:
+  # 每天自动更新
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许你手动点击按钮触发更新
+  workflow_dispatch:
+  # 每次 push 代码也触发
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 必须引用你在 Secrets 里存的 Token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # === 核心配置：复刻 Yetone 风格 ===
+          user: wmuj  # 你的用户名
+          template: terminal  # 关键！启用终端模板
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # === 也可以加一些额外的参数让它更像黑客终端 ===
+          plugin_lines: yes
+          plugin_intro: yes
+          plugin_traffic: yes
+
+          # WakaTime 编码时间统计
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: wmuj
