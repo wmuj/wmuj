@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=码上全栈创享家&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20Your%20Future%20|%20Share%20Your%20Knowledge&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+%E7%A0%81%E4%B8%8A%E5%85%A8%E6%A0%88%E5%88%9B%E4%BA%AB%E5%AE%B6;%F0%9F%8E%93+%E5%9C%A8%E8%AF%BB%E7%A8%8B%E5%BA%8F%E5%91%98+%7C+%E6%8C%81%E7%BB%AD%E8%82%9D%E4%BB%A3%E7%A0%81%E4%B8%AD...;%F0%9F%94%A5+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D+1W%2B;%F0%9F%92%A1+%E5%8A%A9%E5%8A%9B%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+%E7%A0%81%E4%B8%8A%E5%85%A8%E6%A0%88%E5%88%9B%E4%BA%AB%E5%AE%B6;%F0%9F%8E%93+%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB%E7%9A%84%E7%A0%81%E5%86%9C+%7C+%E6%8C%81%E7%BB%AD%E8%82%9D%E4%BB%A3%E7%A0%81%E4%B8%AD...;%F0%9F%94%A5+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D+1W%2B;%F0%9F%92%A1+%E5%8A%A9%E5%8A%9B%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6)](https://git.io/typing-svg)
 
 <!-- 社交媒体徽章 -->
 <p>
@@ -24,7 +24,7 @@ const 码上全栈创享家 = {
   alias: "码上全栈创享家",
   role: "Full Stack Developer & Content Creator",
   location: "China 🇨🇳",
-  status: "在读程序员 | 持续肝代码中...",
+  status: "默默无闻的码农 | 持续肝代码中...",
 
   skills: {
     mobile: ["Flutter", "Dart", "UniApp", "微信小程序"],
