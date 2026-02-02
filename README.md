@@ -17,12 +17,10 @@
 <!-- 技术栈图标 -->
 <img src="https://skillicons.dev/icons?i=flutter,dart,vue,java,react,js,ts,html,css,git,docker,linux&perline=6" />
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wmuj&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%"/>
-
 </div>
+
+<!-- Metrics Classic 数据面板 -->
+<img src="https://raw.githubusercontent.com/wmuj/wmuj/main/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
