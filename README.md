@@ -15,15 +15,9 @@
 <!-- Metrics -->
 <img src="https://github.com/wmuj/wmuj/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
-<!-- GitHub Stats 双卡片 -->
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wmuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmuj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmuj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com/?user=wmuj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
 </div>
 
 <!-- GitHub Trophy -->
