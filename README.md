@@ -13,16 +13,13 @@
 </div>
 
 <!-- Metrics -->
-<img src="https://github.com/wmuj/wmuj/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wmuj/wmuj/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 <!-- GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=wmuj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
-</div>
-
-<!-- GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wmuj&theme=algolia&no-frame=true&no-bg=true&column=6" />
 </div>
 
 ---
