@@ -17,9 +17,6 @@
 
 </div>
 
-<!-- 个人简介卡片 -->
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmuj&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
-
 ### 👨‍💻 About Me
 
 ```javascript
@@ -43,8 +40,6 @@ const wmuj = {
   funFact: "代码是最好的老师，实战是最快的成长 🚀"
 };
 ```
-
-<br clear="both"/>
 
 ---
 
@@ -82,21 +77,6 @@ const wmuj = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wmuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-  <img height="160" src="https://streak-stats.demolab.com/?user=wmuj&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmuj&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" width="95%"/>
 </div>
 
 ---
