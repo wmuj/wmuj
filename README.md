@@ -1,7 +1,20 @@
 <div align="center">
 
-<!-- 打字机动画标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+wmuj;%E2%9A%A1+Full+Stack+Developer+%7C+Open+Source+Lover)](https://git.io/typing-svg)
+```
+
+ █     █░ ███▄ ▄███▓ █    ██  ▄▄▄██▀▀▀
+▓█░ █ ░█░▓██▒▀█▀ ██▒ ██  ▓██▒   ▒██
+▒█░ █ ░█ ▓██    ▓██░▓██  ▒██░   ░██
+░█░ █ ░█ ▒██    ▒██ ▓▓█  ░██░▓██▄██▓
+░░██▒██▓ ▒██▒   ░██▒▒▒█████▓  ▓███▒
+░ ▓░▒ ▒  ░ ▒░   ░  ░░▒▓▒ ▒ ▒  ▒▓▒▒░
+  ▒ ░ ░  ░  ░      ░░░▒░ ░ ░  ▒ ░▒░
+  ░   ░  ░      ░    ░░░ ░ ░  ░ ░ ░
+    ░           ░      ░      ░   ░
+```
+
+<!-- 终端打字效果 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=%24+whoami;wmuj+%7C+Full+Stack+Developer;%24+cat+skills.txt;Python+%7C+JavaScript+%7C+Go+%7C+Rust;%24+echo+%22Always+learning...%22)](https://git.io/typing-svg)
 
 <!-- GitHub 贡献贪吃蛇 -->
 <picture>
@@ -10,16 +23,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/wmuj/wmuj/output/github-snake-dark.svg" />
 </picture>
 
-</div>
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wmuj&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
-<!-- Metrics -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wmuj/wmuj/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+<!-- GitHub Stats + Streak 并排 -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=wmuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
+<img height="160" src="https://streak-stats.demolab.com/?user=wmuj&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=wmuj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
 </div>
 
 ---
