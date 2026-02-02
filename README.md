@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- 动态波浪banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=码上全栈创享家&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20Your%20Future%20|%20Share%20Your%20Knowledge&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=码上全栈创享家&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20Your%20Future%20|%20Share%20Your%20Knowledge&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+wmuj+%7C+%E7%8E%8B%E5%B8%85%E5%BC%BA;%F0%9F%8E%93+%E5%9C%A8%E8%AF%BB%E7%A8%8B%E5%BA%8F%E5%91%98+%7C+%E8%87%AA%E5%AD%A62%E5%B9%B4;%F0%9F%94%A5+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D+1W%2B;%F0%9F%92%A1+%E5%8A%A9%E5%8A%9B%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+wmuj+%7C+%E7%8E%8B%E5%B8%85%E5%BC%BA;%F0%9F%8E%93+%E5%9C%A8%E8%AF%BB%E7%A8%8B%E5%BA%8F%E5%91%98+%7C+%E8%87%AA%E5%AD%A62%E5%B9%B4;%F0%9F%94%A5+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D+1W%2B;%F0%9F%92%A1+%E5%8A%A9%E5%8A%9B%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6)](https://git.io/typing-svg)
 
 <!-- 社交媒体徽章 -->
 <p>
   <a href="https://xhslink.com/m/6Pc9xbZooIr"><img src="https://img.shields.io/badge/小红书-码上全栈创享家-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/微信公众号-码上全栈创享家-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/全网粉丝-10000+-orange?style=for-the-badge&logo=rss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/全网粉丝-10000+-00D9FF?style=for-the-badge&logo=rss&logoColor=white"/>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wmuj.wmuj&left_color=orange&right_color=red"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wmuj.wmuj&left_color=%2300D9FF&right_color=%230099FF"/>
 
 </div>
 
 <!-- 个人简介卡片 -->
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmuj&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=ffffff"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmuj&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
 
 ### 👨‍💻 About Me
 
@@ -89,14 +89,14 @@ const wmuj = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wmuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=ffffff"/>
-  <img height="160" src="https://streak-stats.demolab.com/?user=wmuj&theme=dark&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wmuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=wmuj&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmuj&theme=github-dark&hide_border=true&bg_color=0d1117&color=F97316&line=F97316&point=ffffff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmuj&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" width="95%"/>
 </div>
 
 ---
@@ -140,6 +140,6 @@ const wmuj = {
 
 **如果我的内容对你有帮助，欢迎 ⭐ Star 支持一下！**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
 
 </div>
